@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá! Eu sou Gustavo Barros 👋
 
-<!--
-**guzt4v0/guzt4v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com marketing e estratégia digital
+- 🌱 Estudo análise e ciência de dados 
+- 💬 Meu contato de email: gustavo99barros@outlook.com
+- 📱  Meu LinkedIn: https://www.linkedin.com/in/gustavo-barros-000b8815b/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/guzt4v0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guzt4v0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzt4v0&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="gu-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="gu-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="gu-conda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="gu-pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="gu-numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+</div>
+  
+  ##
+  
+  *Constante aprendiz, fascinado em contribuir para o desenvolvimento de inovação, proporcionar melhorias de negócios, adquirir e compartilhar conhecimentos através dos dados.*
+  
+  ![Snake animation](https://github.com/guzt4v0/guzt4v0/blob/output/github-contribution-grid-snake.svg)
