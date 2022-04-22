@@ -1,9 +1,9 @@
 ### Olá! Eu sou Gustavo Barros 👋
 
-- 🔭 Hoje trabalho com marketing e estratégia digital
-- 🌱 Estudo análise e ciência de dados 
-- 💬 Meu contato de email: gustavo99barros@outlook.com
-- 📱  Meu LinkedIn: https://www.linkedin.com/in/gustavo-barros-000b8815b/
+#### 🔭 Hoje trabalho com marketing e estratégia digital
+#### 🌱 Estudo análise e ciência de dados 
+#### 💬 Meu contato de email: gustavo99barros@outlook.com
+#### 📱  Meu LinkedIn: https://www.linkedin.com/in/gustavo-barros-000b8815b/
 
 <div align="center">
   <a href="https://github.com/guzt4v0">
@@ -19,7 +19,4 @@
   <img align="center" alt="gu-numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
 </div>
   
-  ##
-  
-  ### *Constante aprendiz, fascinado em contribuir para o desenvolvimento de inovação, proporcionar melhorias de negócios, adquirir e compartilhar conhecimentos através dos dados.*
   
